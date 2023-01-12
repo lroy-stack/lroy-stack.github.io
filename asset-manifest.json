@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lroy-stack/lroy-stack.github.io.git/static/css/main.02ab3bc1.css",
+    "main.js": "/lroy-stack/lroy-stack.github.io.git/static/js/main.f6db4137.js",
+    "static/media/mockup.png": "/lroy-stack/lroy-stack.github.io.git/static/media/mockup.3c3662d5596444f200ba.png",
+    "static/media/home_cards.png": "/lroy-stack/lroy-stack.github.io.git/static/media/home_cards.3c81359215fdf487785c.png",
+    "static/media/home_hero.png": "/lroy-stack/lroy-stack.github.io.git/static/media/home_hero.f16702df781062d18542.png",
+    "static/media/scene.png": "/lroy-stack/lroy-stack.github.io.git/static/media/scene.9503cd006575a671267a.png",
+    "static/media/feature.png": "/lroy-stack/lroy-stack.github.io.git/static/media/feature.04560d916ed55297cd93.png",
+    "static/media/react.png": "/lroy-stack/lroy-stack.github.io.git/static/media/react.b3bb422afcb3ccf65dd1.png",
+    "static/media/javascript.png": "/lroy-stack/lroy-stack.github.io.git/static/media/javascript.5a29a2a4757fc4747392.png",
+    "static/media/banner02.svg": "/lroy-stack/lroy-stack.github.io.git/static/media/banner02.2f6ba07c3ed4697086f7.svg",
+    "static/media/banner03.svg": "/lroy-stack/lroy-stack.github.io.git/static/media/banner03.a278a430daff7d7a2a6e.svg",
+    "static/media/banner.svg": "/lroy-stack/lroy-stack.github.io.git/static/media/banner.3c310352a6d940cab963.svg",
+    "static/media/banner04.svg": "/lroy-stack/lroy-stack.github.io.git/static/media/banner04.b43b10b807bb6396ac49.svg",
+    "index.html": "/lroy-stack/lroy-stack.github.io.git/index.html",
+    "main.02ab3bc1.css.map": "/lroy-stack/lroy-stack.github.io.git/static/css/main.02ab3bc1.css.map",
+    "main.f6db4137.js.map": "/lroy-stack/lroy-stack.github.io.git/static/js/main.f6db4137.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02ab3bc1.css",
+    "static/js/main.f6db4137.js"
+  ]
+}
